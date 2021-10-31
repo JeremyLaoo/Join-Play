@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "414655431523",
+    "project_id": "join-and-play",
+    "storage_bucket": "join-and-play.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414655431523:android:d91b3ccc92a0b03f328956",
+        "android_client_info": {
+          "package_name": "com.etna.joinandplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414655431523-q9kko7j82hhnfs3ra8c3auhg6covv6ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6K5bf-a5CLpTIxoAfKqWorm43VV9ZiOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414655431523-q9kko7j82hhnfs3ra8c3auhg6covv6ji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414655431523-unsv4plr71r9lhufrb1d126cj4ivbdep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joinandplay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414655431523:android:cfec60797e221a16328956",
+        "android_client_info": {
+          "package_name": "com.joinandplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414655431523-q9kko7j82hhnfs3ra8c3auhg6covv6ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6K5bf-a5CLpTIxoAfKqWorm43VV9ZiOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414655431523-q9kko7j82hhnfs3ra8c3auhg6covv6ji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414655431523-unsv4plr71r9lhufrb1d126cj4ivbdep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joinandplay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
